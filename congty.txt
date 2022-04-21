@@ -1,0 +1,4 @@
+maNV,hoTen,sDT,soNgayLamViec,luongMotNgay
+001,minh hai,0981544,12,200
+002,hai minh,54848456,15,300
+003,hai nguyen,494545484,20,300
